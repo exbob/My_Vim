@@ -25,9 +25,9 @@ endif
 
 
 "================
-"C automatic indent
+"filetype automatic 
 
-filetype indent on
+filetype plugin indent on
 "amount of space
 set cindent shiftwidth=8
 
